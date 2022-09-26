@@ -1,7 +1,7 @@
 # FirstPrinciple👀
-📅2022年9月26日·👦theRunCom·🏷️[knowledge](https://github.com/theRunCom/FirstPrinciple)
+#### 📅2022年9月26日·👦theRunCom·🏷️[knowledge](https://github.com/theRunCom/FirstPrinciple)
 =====
-*<font face="楷书">有关第一性原理的相关资料！！！</font>*
+*有关第一性原理的相关资料！！！*
 
 ## 目录
 - [刻意练习](#刻意练习)
